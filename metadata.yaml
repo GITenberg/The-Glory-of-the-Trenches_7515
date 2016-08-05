@@ -1,0 +1,34 @@
+_repo: The-Glory-of-the-Trenches_7515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby William
+    - Dawson, Coningsby W. (Coningsby William)
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: To you at home (poem) -- How this book was written [by] W. J. Dawson
+  -- In hospital (poem) -- The road to Blighty -- The lads away (poem) -- The growing
+  of the vision -- The glory of the trenches (poems) -- God as we see him.
+title: The Glory of the Trenches
+url: http://www.gutenberg.org/ebooks/7515
