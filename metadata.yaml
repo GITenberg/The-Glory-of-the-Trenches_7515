@@ -1,5 +1,8 @@
 _repo: The-Glory-of-the-Trenches_7515
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dawson, Coningsby
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2497
     wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7515#The-Glory-of-the-Trenches
 gutenberg_bookshelf:
 - World War I
 - Bestsellers, American, 1895-1923
